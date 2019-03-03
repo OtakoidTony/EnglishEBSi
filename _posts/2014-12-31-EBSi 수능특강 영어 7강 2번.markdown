@@ -1,0 +1,12 @@
+﻿---
+layout: post
+title:  "EBSi 수능특강 영어 7강 2번"
+date:   2019-03-03 09:23:15
+categories: "수능특강 영어 구문독해"
+permalink: /archivers/702
+---
+
+The Theater at Epidaurus was an example of ancient Greek civic architecture meant to be enjoyed by the general public. The art of the theater was an important part of ancient Greek culture and religion, as religious ceremonies were incorporated with music and dance, and performed in public spaces. Greek drama, including tragedies and comedies, was performed in outdoor spaces like the Theater at Epidaurus. At the heart of the theater was the circular orchestra, the central performance area. Fifty-five rows of semicircular tiered seats were carved into a hillside, which allowed as many as fourteen thousand spectators a good view of the orchestra. The design of the Theater at Epidaurus is so effective that it is still in use today, and the acoustics are so perfect that no electrified sound system is needed when performances are held at the site.
+<!--more-->
+
+>Epidaurus에 있는 극장은 하나의 일반 대중이 즐길 수 있는 고대 그리스의 시민 건축물 중 하나의 예로 들어질 수 있다. 그 극장의 예술작품은 음악과 무용이 종교적인 의식들과 어우러지며 또한 시민 공간에서 행해졌다는 점에서 고대 그리스의 문화와 종교의 매우 중요한 부분 중 하나이다. 비극과 희극을 포함한 그리스 드라마는 Epidaurus에 있는 극장처럼 외부공간에서 행해졌다. 그 극장의 중심부는 중앙 악주 영역의 원형 오케스트라이다. 55열의 반원형의 좌석이 언덕부분에 140000명의 관중들이 오케스트라의 좋은 시점을 볼 수 있도록 희어져있다. 이러한 Epidaurus에 있는 극장의 고안은 매우 효과적이었기 때문에 오늘날, 현대에 들어서도 이용되어지며, 음향효과는 공연 중 전기가 없이도 매우 완벽했다.
