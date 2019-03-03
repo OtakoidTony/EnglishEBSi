@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll and EasyBook"
+title:  "EBSi 수능특강 영어 5강 7번"
 date:   2019-03-03 09:00:13
 categories: jekyll update
 permalink: /archivers/hello
