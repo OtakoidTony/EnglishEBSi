@@ -1,7 +1,7 @@
 # Site settings
 title: EBSi 해석
 url: "http://ebsitranslation.kro.kr"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "/EnglishEBSi" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+# baseurl: "/EnglishEBSi" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
   One or more sentences introducing this blog.
