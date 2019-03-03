@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "EBSi 수능특강 영어 5강 8번"
+date:   2019-03-03 09:00:13
+categories: "수능특강 영어 구문독해"
+permalink: /archivers/507
+---
+
+Praise that arouses delight and pride in a baby and toddler can have very different effects on older children, particularly in the classroom. When Roy Baumeister studied the effects of praise, he found that it generated more anxiety than pleasure in school- aged children. Children accustomed to the background hum of praise seemed to become dependent on praise to initiate any activity. A child who was accustomed to classroom praise spent less time focusing on a project and soon stopped working to wait for a teacher’s assessment. Praise seemed to hinder concentration, too. Children’s absorption in a task (often called flow) seemed to be disrupted by the reminder that someone was watching. When they were singing or playing an instrument, swimming or hitting a ball, or doing anything that involved deep skills run on autopilot, their performance was particularly badly affected by praise.
+<!--more-->
+
+>칭찬은 유아의 경우 행복하고 자신감이 생기게 만들 수 있지만, 어린이의 경우 교실에서라든지, 매우 다른 영향을 가질 수 있게 된다. Roy Baumeister 가 칭찬의 영향에 대해 연구를 했을 때, 그는 취학아동의 경우에 행복한 감정보다는 불안한 감정을 더욱 생성시킨다는 사실을 발견하였다. 칭찬을 받아온 아이들의 경우 어떠한 활동을 시작할 때 칭찬에 의존하게 되는 경향을 띄는 것으로 보이며, 이러한 경우, 아이들은 한 활동에 대하여 적은 시간을 소비하고 얼마 안 되서 선생님의 평가를 받기 위해 멈추기도 한다. 이러한 것과 같이 칭찬은 집중력을 흩트리는 것으로 보인다. 아이들의 일에 대해 몰두하는 것은 누군가가 본다고 상기함으로써 무너져 내릴 수 있을 것으로 보이기도 한다. 그들이 노래를 부르거나 악기를 다루거나 수영을 하던지 공을 차든지, 자동적으로 Deep Skill을 일깨우는 것을 하고 있을 때 그들의 퍼포먼스는 특정적으로 칭찬에 의하여 안 좋은 영향을 받는다.
+
