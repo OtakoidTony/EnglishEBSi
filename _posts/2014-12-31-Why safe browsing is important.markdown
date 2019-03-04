@@ -3,7 +3,7 @@ layout: post
 title:  "자작 영어 문제:주제 추론"
 date:   2019-03-04 09:23:40
 categories: "자작문제"
-permalink: /archivers/703
+permalink: /archivers/own1
 ---
 
 ## 다음의 주제로 가장 적절한 것을 고르시오.
