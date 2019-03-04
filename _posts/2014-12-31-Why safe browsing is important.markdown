@@ -15,14 +15,11 @@ Internet can be a dangerous place. There're different reasons why you should be 
 > 3. How can a computer virus does crack your computer.
 > 4. Importance of installing antivirus and safe web browser
 > 5. Do you know risks of sites that you visited?  
-            
-  
 
 <!--more-->
 
-
-    
-                
+&nbsp;
+        
 > 정답: 1. Why safe browsing is important?  
 > 해석: 1. 왜 안전한 브라우징이 중요한가?
   
