@@ -8,10 +8,8 @@ permalink: /archivers/ownL1
 
 ## 다음 대화를 듣고 대화의 주제로 알맞은 것을 고르시오.
     
-W: Can I use a font to print Korean Language?
-
-M: What font were you looking to use? I've come up with two potential solutions, although both will take a lot of time to program, and may not be very efficient. First, option A would use about 20 or more fonts to convert Unicode character groups into ASCII letters essentially. So, it would be painful on the CPU. And in case of option B, this option would work extremely well, although it would slow down for big strings with lots of unique characters. You can follow my progress from my web-site.
-
+W: Can I use a font to print Korean Language?  
+M: What font were you looking to use? I've come up with two potential solutions, although both will take a lot of time to program, and may not be very efficient. First, option A would use about 20 or more fonts to convert Unicode character groups into ASCII letters essentially. So, it would be painful on the CPU. And in case of option B, this option would work extremely well, although it would slow down for big strings with lots of unique characters. You can follow my progress from my web-site.  
 W. Thanks for letting me know, I will try.
      
 > 1. 아스키코드의 문제점에 대하여
