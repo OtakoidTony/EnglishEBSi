@@ -39,6 +39,7 @@
         }
         
         pre {
+			text-align:justify; 
         	margin: 0 -30px;
             @include media-query($on-palm) {
 		        margin: 0 -10px;
