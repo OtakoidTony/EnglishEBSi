@@ -42,6 +42,7 @@
         margin-bottom: .5em;
     }
     .post-excerpt {
+		text-align:justify; 
         &, * {
             font-size: $small-font-size;
             padding-top: 0;
